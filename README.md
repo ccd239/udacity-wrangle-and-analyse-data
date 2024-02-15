@@ -1,2 +1,2 @@
-# udacity-wrangle-and-analyse-data
+# README
 This is the repo of one of my 1st projects of data analysis while learning w/ Udacity. Learned how to use Twitter (new X) API.
