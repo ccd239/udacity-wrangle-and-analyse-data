@@ -1,6 +1,7 @@
 # ABOUT THE HUMAN'S BEST FRIEND
 
-**learning how to gather, assess and analyse data the funny way**
+**Learning how to gather, assess and analyse data the funny way**
+(see what I'm talking about in the act_report notebook)
 
 This is the repo of one of my 1st projects of data analysis while learning w/ Udacity. Learned how to use Twitter (new X) API.
 
